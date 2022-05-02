@@ -1,4 +1,4 @@
-# Digital Agency - VisitDenmark
+# Digital Agency - VisitDenmark (Gruppe 4)
 
 ##  Miro Boards
 - Agile Retrospective - https://miro.com/app/board/uXjVO7nJcqw=/?fbclid=IwAR1LOjJBGx7xMf8kI2IOoKmM18e2ukXIBB1d8SnI0rKPlP2I_OjUcKGq8gc
